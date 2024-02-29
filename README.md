@@ -20,7 +20,7 @@ To run this website locally, follow these steps:
 3. Open the `index.html` file in your preferred web browser.
 
 ## How to view
-you can access clone website by visiting https://madhuthra.github.io/udemy-clone/ feel free to explore and get in touch!
+you can access clone website by visiting https://madhuthra.github.io/Greenden/ feel free to explore and get in touch!
 
 ## Contributing
 
